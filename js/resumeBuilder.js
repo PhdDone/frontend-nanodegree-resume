@@ -114,7 +114,6 @@ education.display = function() {
 
     }
 }
-
 var work = {
     "jobs": [
         {
